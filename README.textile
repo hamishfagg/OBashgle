@@ -1,0 +1,26 @@
+OBashgle - A bash interface used from Omegle.
+
+Allow users of Omegle.com to control your PC - provided they know how to use bash!
+
+I would STRONGLY advise against using this on a physical machine, if at all (unless you like re-installing operating systems).
+To be fair the bash-knowers I've found on Omegle so far have been interested more than destructive (I left them a puzzle to get root access to a VM), but still.
+
+To run:
+
+<code>
+python obashgle.py
+</code>
+
+Watch and wait.. There is nothing that you can do other than watch at this stage.
+
+The script currently has some limitations, the main one being that it runs a command from python with popen, and waits for it to return.
+Thus, it can't run anything that does not return by itself (well it can, but the script hangs indefinitely).
+
+I'll try to implement something to get around this soon.
+
+
+Just a note:
+
+I HAVE looked for terms of service or rules on Omegle.com, and have found nothing.
+Based on this, I can only assume that Omegle has no rules agains this sort of thing.
+If you find info to suggest otherwise, please let me know (and I'll add "Don't actually use this" to the bottom of this readme).
