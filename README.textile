@@ -24,3 +24,6 @@ Just a note:
 I HAVE looked for terms of service or rules on Omegle.com, and have found nothing.
 Based on this, I can only assume that Omegle has no rules agains this sort of thing.
 If you find info to suggest otherwise, please let me know (and I'll add "Don't actually use this" to the bottom of this readme).
+
+
+I do NOT take responsibility for ANY damage to your stuff if you hand over the controls to a stranger on Omegle. Sorry.
