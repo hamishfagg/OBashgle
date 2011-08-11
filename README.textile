@@ -1,6 +1,8 @@
 OBashgle - A bash interface used from Omegle.
 
 Allow users of Omegle.com to control your PC - provided they know how to use bash!
+OBashgle connects to a stranger on Omegle.com, and runs anything they say as a command - replying with the output of said command.
+Keeps track of current directories so that users can use cd.
 
 I would STRONGLY advise against using this on a physical machine, if at all (unless you like re-installing operating systems).
 To be fair the bash-knowers I've found on Omegle so far have been interested more than destructive (I left them a puzzle to get root access to a VM), but still.
